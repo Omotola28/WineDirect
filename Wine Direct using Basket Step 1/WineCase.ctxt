@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WineCase()
+comment0.text=\r\n\ This\ constructor\ is\ for\ testing\ purposes\ only\r\n\ Refno,\ description,\ noOfBottels\ and\ price\ indicated.\r\n
+comment1.params=wineRef\ details\ bottleNo\ cost
+comment1.target=WineCase(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Appropraite\ values\ should\ be\ assigned\ to\ these\ fields\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getRefNo()
+comment3.params=
+comment3.target=java.lang.String\ getDes()
+comment4.params=
+comment4.target=int\ getNoOfBottles()
+comment5.params=
+comment5.target=double\ getPrice()
+numComments=6
